@@ -1,0 +1,8 @@
+package rusty-idris
+version = 0.1.0
+
+sourcedir = "src"
+executable = rusty-idris
+main = Main
+
+depends = idris2
